@@ -1,0 +1,8 @@
+import turtle
+import random
+
+turtle.tracer(1,0)
+
+SIZE_X=800
+SIZE_Y=500
+turtle.setup(SIZE_X, SIZE_Y)
